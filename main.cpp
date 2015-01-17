@@ -1,17 +1,12 @@
-/*
- * main.cpp
- *
- *  Created on: Jan 16, 2015
- *      Author: derlars
- */
 
-#include "MyClass.h"
+
+#include "UART.h"
 
 int main()
 {
-	MyClass myClass;
+	UART uart;
 
-	myClass.bark();
+	uart.writeOut();
 
 	return 1;
 }

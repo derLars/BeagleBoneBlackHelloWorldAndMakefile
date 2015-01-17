@@ -12,7 +12,7 @@ OUTPUTNAME=pr0gramm
 
 #all the project files
 #REPLACE THESE FILES WITH YOUR PROJECT FILES!!!!
-PRJSRC=main.cpp MyClass.cpp
+PRJSRC=main.cpp UART.cpp
 
 #project files as .o files
 OBJECTS= $(PRJSRC:.c=.o)

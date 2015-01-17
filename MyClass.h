@@ -1,9 +1,14 @@
-/*
- * MyClass.h
- *
- *  Created on: Jan 16, 2015
- *      Author: derlars
- */
+//####################################################
+//#Saturday, 17.Januar.2015 made by Lars C. Schwensen#
+//####################################################
+
+//#################################################################
+//#Just an example class                                          #
+//#DEVICE: BeagleBone Black                                       #
+//#OS: Debian                                                     #
+//#################################################################
+
+//MyClass.h
 
 #ifndef MYCLASS_H_
 #define MYCLASS_H_
